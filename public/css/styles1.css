@@ -1,0 +1,71 @@
+.ang{
+  background-color: #03506f;
+
+margin-left: 42%;
+margin-top: 5rem;
+	height: 28px;
+	display: block;
+	width: 118px;
+	text-align: center;
+	line-height: 28px;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	font-weight: 700;
+	font-size: 15px;
+	border-radius: 10rem;
+	border: 1px solid #ecf4f3;
+  width: 172px;
+height: 42px;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+
+}
+.ang:hover {
+	box-shadow: 0px 0px 4px #b1b1b1;
+	background-color:#ecf4f3;
+	border: 1px solid #ecf4f3;
+}
+
+.ang:active {
+	box-shadow: 0px 0px 4px #b1b1b1 inset;
+	background-color: #ecf4f3;
+	border: 1px solid #ecf4f3;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: #ecf4f3;
+}
+.navbar-nav  li a:hover {
+    color: #155263 !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #065c6f;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}
